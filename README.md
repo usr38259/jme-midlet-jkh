@@ -1,2 +1,2 @@
-# jme-midlet-jkh
-Java ME sample midlet
+# Java ME sample midlet
+Пример простого Java ME приложения.
